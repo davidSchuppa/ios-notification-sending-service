@@ -1,0 +1,3 @@
+.build/							usr/src/ios-notification-sender-service
+terraform/scripts/install.sh	usr/src/ios-notification-sender-service
+terraform/scripts/start.sh		usr/src/ios-notification-sender-service
